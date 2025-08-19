@@ -1,0 +1,9 @@
+# Ignore helper and junk files
+.cph/
+.vscode/
+*.exe
+*.out
+*.bin
+output/
+*.o
+*.obj
